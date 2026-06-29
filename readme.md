@@ -3,7 +3,7 @@
 Este repositório contém o trabalho final desenvolvido para a disciplina de Inteligência Artificial da Universidade Federal do Piauí (UFPI). O objetivo do projeto é construir um pipeline completo de ciência de dados para classificar potenciais tomadores de crédito em categorias de **Baixo Risco** ou **Alto Risco**.
 
 ## 📌 Contextualização do Problema
-A concessão de crédito é uma das atividades mais críticas do setor financeiro. Identificar com precisão o risco de inadimplência protege as instituições de perdas severas. Este projeto aborda o problema sob a ótica de classificação binária complexa, lidando diretamente com o desafio de **dados desbalanceados** (onde o número de inadimplentes é significativamente menor que o de bons pagadores).
+A concessão de crédito é uma das atividades mais críticas do setor financeiro. Identificar com precisão os riscos de inadimplência protege as instituições de perdas severas. Este projeto aborda o problema sob a ótica de classificação binária complexa, lidando diretamente com o desafio de **dados desbalanceados** (onde o número de inadimplentes é significativamente menor que o de bons pagadores).
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 *   **Python 3.10**
