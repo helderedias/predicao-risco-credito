@@ -17,7 +17,7 @@ O pré-processamento dos dados brutos seguiu as seguintes etapas automatizadas n
 3. **Escalonamento de Atributos:** Padronização estatística via *StandardScaler* (média 0, variância 1) das variáveis contínuas, garantindo a convergência dos algoritmos baseados em distância e gradiente.
 
 ## 🤖 Modelos Avaliados e Resultados
-Foram testados três algoritmos com abordagens matemáticas distintas. Devido à assimetria das classes, a avaliação priorizou métricas rigorosas como **Recall (Sensibilidade)** e **AUC-ROC** em vez da acurácia global:
+Foram testados três algoritmos com abordagens matemáticas distintas. Devido à assimetria das classes, a avaliação priorizou métricas mais rigorosas como **Recall (Sensibilidade)** e **AUC-ROC** em vez da acurácia global:
 
 | Algoritmo Classificador | Acurácia | Precisão (Classe 1) | Recall (Classe 1) | F1-Score | AUC-ROC |
 | :--- | :---: | :---: | :---: | :---: | :---: |
