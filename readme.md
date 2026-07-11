@@ -12,7 +12,7 @@ A concessão de crédito é uma das atividades mais críticas do setor financeir
 
 ## 📊 Pipeline de Engenharia de Dados
 O pré-processamento dos dados brutos seguiu as seguintes etapas automatizadas no script:
-1. **Tratamento de Dados Ausentes:** Imputação de valores nulos utilizando a mediana amostral para mitigar o impacto de *outliers*.
+1. **Tratamento de Dados Ausentes:** Imputação de valores nulos utilizando a mediana amostral para mitigar o impacto dos *outliers*.
 2. **Codificação Categórica:** Aplicação de *One-Hot Encoding* em variáveis nominais (`tipo_moradia`).
 3. **Escalonamento de Atributos:** Padronização estatística via *StandardScaler* (média 0, variância 1) das variáveis contínuas, garantindo a convergência dos algoritmos baseados em distância e gradiente.
 
