@@ -7,7 +7,7 @@ A concessão de crédito é uma das atividades mais críticas do setor financeir
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 *   **Python 3.10**
-*   **Pandas** & **NumPy**: Manipulação de matrizes e estruturação dos dados tabulares.
+*   **Pandas** e **NumPy**: Manipulação de matrizes e estruturação dos dados tabulares.
 *   **Scikit-Learn**: Divisão amostral, escalonamento e implementação dos algoritmos de Machine Learning.
 
 ## 📊 Pipeline de Engenharia de Dados
