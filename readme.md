@@ -19,7 +19,7 @@ O pré-processamento dos dados brutos seguiu as seguintes etapas automatizadas n
 ## 🤖 Modelos Avaliados e Resultados
 Foram testados três algoritmos com abordagens matemáticas distintas. Devido à assimetria das classes, a avaliação priorizou métricas mais rigorosas como **Recall (Sensibilidade)** e **AUC-ROC** em vez da acurácia global:
 
-| Algoritmo Classificador | Acurácia | Precisão (Classe 1) | Recall (Classe 1) | F1-Score | AUC-ROC |
+| Algoritmo Classificador | Acurácia | Precisão (Classe 1) | Recall (Classe 1) | F1-Score | AUC-ROC 
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Regressão Logística** | 82,1% | 51,2% | 12,4% | 20,0% | 0,642 |
 | **Árvore de Decisão (Otimizada)** | **84,6%** | **63,8%** | **41,2%** | **50,1%** | **0,718** |
