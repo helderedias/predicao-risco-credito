@@ -23,7 +23,7 @@ Foram testados três algoritmos com abordagens matemáticas distintas. Devido à
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Regressão Logística** | 82,1% | 51,2% | 12,4% | 20,0% | 0,642 |
 | **Árvore de Decisão (Otimizada)** | **84,6%** | **63,8%** | **41,2%** | **50,1%** | **0,718** |
-| **K-Nearest Neighbors (k-NN)** | 80,5% | 43,1% | 23,5% | 30,4% | 0,611 |
+| **K-Nearest Neighbors (k-NN)** | 80,5% | 43,1% | 23,5% | 30,4% | 0,611 
 
 ### Conclusão dos Experimentos
 A **Árvore de Decisão Otimizada** apresentou o melhor desempenho global. Ela demonstrou maior capacidade de capturar a inadimplência latente (Recall de 41,2%), enquanto modelos lineares como a Regressão Logística falharam por serem severamente afetados pelo desbalanceamento natural da base de dados.
